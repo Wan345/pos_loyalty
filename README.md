@@ -1,2 +1,2 @@
 # reword_loyalty
-Loyalty_programs
+pos_loyalty
